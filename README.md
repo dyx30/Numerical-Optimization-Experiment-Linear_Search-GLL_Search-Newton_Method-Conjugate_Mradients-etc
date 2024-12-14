@@ -4,6 +4,6 @@
 
 
 # Reference：
-高立.数值最优化方法[M]. 北京,北京大学出版社,2014.8.
-刘浩洋, 户将, 李勇锋, 文再文.最优化计算方法[M].北京，高等教育出版社, 2023
+高立.数值最优化方法[M]. 北京,北京大学出版社,2014.8.<br />
+刘浩洋, 户将, 李勇锋, 文再文.最优化计算方法[M].北京，高等教育出版社, 2023  <br />
 Moré J J, Garbow B S, Hillstrom K E. Testing unconstrained optimization software[J]. ACM transactions on mathematical software (TOMS), 1981, 7(1): 17-41.
