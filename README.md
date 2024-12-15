@@ -18,7 +18,7 @@ experiment2：<br />
 - `utils.py`:Cholesky分解;
 - `main.py`:第一次实验所用的测试函数和命令。该部分中测试函数使用自动微分，大规模问题下建议手动微分;
 - `variably_dimensioned_function.py`、`discrete_boundary_function.py`、`extended_rosenbrock_function.py`，第二次实验使用的三个测试函数，手动微分;
-- `more-testing`:*Testing unconstrained optimization software*,包含了更多的测试样例。
+- `More-Testing.pdf`:*Testing unconstrained optimization software*:包含了更多的测试样例。
 
 
 
